@@ -6,6 +6,9 @@
     <item name="colorPrimary">@color/colorPrimary</item>
     <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
     <item name="colorAccent">@color/colorAccent</item>
+
+    //color the overflow menu buttons
+    <item name="android:textColorSecondary">@color/cloud_gray</item>
   </style>
 
   <style name="AppTheme.TransparentStatusBar">
